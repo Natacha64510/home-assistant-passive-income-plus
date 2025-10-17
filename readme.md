@@ -1,11 +1,19 @@
-# Home Assistant Passive Income
+# Home Assistant Passive Income Plus ✨
+
+## 🔄 Fork Amélioré
+
+**Cette version est un fork amélioré du repository original [bvlinsky/home-assistant-passive-income](https://github.com/bvlinsky/home-assistant-passive-income).**
+
+### 🚀 Améliorations apportées :
+- ➕ **2 nouvelles applications ajoutées** : Peer2Profit et PacketShare
+- 📈 **Total : 12 applications** (au lieu de 10)
+- 🔒 **Version indépendante** : développée et maintenue séparément
+- 🎯 **Focus sur les revenus passifs** sans fonctionnalités de proxy IP
 
 This repository contains a collection of Home Assistant add-ons
 for running various passive income applications on a Home Assistant.
 These applications allow you to generate income through proxy services,
 bandwidth sharing, and more right from your home network.
-
-**NEW:** We've added Peer2Profit and PacketShare to expand your passive income opportunities!
 
 Each application is packaged as an add-on,
 making it easy to install and manage directly from Home Assistant.
@@ -35,7 +43,7 @@ you directly contribute to future updates and maintenance.
 1. In the Supervisor panel, click on the "Add-on Store" tab
 2. Click on the three dots menu (⋮) in the top right corner
 3. Select "Repositories"
-4. In the "Add repository" field, enter: `https://github.com/bvlinsky/home-assistant-passive-income`
+4. In the "Add repository" field, enter: `https://github.com/Natacha64510/home-assistant-passive-income-plus`
 5. Click "Add"
 6. After adding the repository, new add-ons should appear in your add-on store
 
