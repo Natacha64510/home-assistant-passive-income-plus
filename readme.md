@@ -53,7 +53,7 @@ you directly contribute to future updates and maintenance.
 
 ## 🖥️ Compatibility
 
-This set of add-ons has been tested and works great on a Raspberry Pi 4 running Home Assistant OS.
+This set of add-ons has been tested and works great on a Raspberry Pi 4 and 5 running Home Assistant OS.
 It should also be compatible with other Home Assistant instances, regardless of hardware or OS.
 
 If you encounter any issues or have questions, please let me know by opening an issue in the repository.
@@ -109,7 +109,7 @@ vous contribuez directement aux futures mises à jour et à la maintenance.
 
 ## 🖥️ Compatibilité
 
-Cet ensemble d'add-ons a été testé et fonctionne parfaitement sur un Raspberry Pi 4 avec Home Assistant OS.
+Cet ensemble d'add-ons a été testé et fonctionne parfaitement sur un Raspberry Pi 4 et 5 avec Home Assistant OS.
 Il devrait également être compatible avec d'autres instances Home Assistant, quel que soit le matériel ou le système d'exploitation.
 
 Si vous rencontrez des problèmes ou avez des questions, n'hésitez pas à ouvrir une issue dans le repository.

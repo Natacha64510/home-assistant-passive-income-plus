@@ -5,7 +5,7 @@ you directly contribute to future updates and maintenance.
 
 ## Quick Configuration Guide
 
-1. If you don't have a PacketStream account, sign up at [earnapp.com](https://earnapp.com/i/4LLxaYrb).
+1. If you don't have an EarnApp account, sign up at [earnapp.com](https://earnapp.com/i/Rmu95DFZ).
 2. In Home Assistant, go to "Supervisor" > "Add-on Store" > EarnApp add-on > "Configuration" tab.
 3. In the add-on configuration, set EARNAPP_UUID, use existing id or create new (instruction below).
 4. Go to `https://earnapp.com/r/{EARNAPP_UUID}` to register device.
