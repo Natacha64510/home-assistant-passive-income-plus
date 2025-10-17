@@ -1,14 +1,14 @@
 # Home Assistant Passive Income Plus ✨
 
-## 🔄 Fork Amélioré
+## 🔄 Enhanced Fork
 
-**Cette version est un fork amélioré du repository original [bvlinsky/home-assistant-passive-income](https://github.com/bvlinsky/home-assistant-passive-income).**
+**This version is an enhanced fork of the original repository [bvlinsky/home-assistant-passive-income](https://github.com/bvlinsky/home-assistant-passive-income).**
 
-### 🚀 Améliorations apportées :
-- ➕ **2 nouvelles applications ajoutées** : Peer2Profit et PacketShare
-- 📈 **Total : 12 applications** (au lieu de 10)
-- 🔒 **Version indépendante** : développée et maintenue séparément
-- 🎯 **Focus sur les revenus passifs** sans fonctionnalités de proxy IP
+### 🚀 Improvements Made:
+- ➕ **2 new applications added**: Peer2Profit and PacketShare
+- 📈 **Total: 12 applications** (instead of 10)
+- 🔒 **Independent version**: developed and maintained separately
+- 🎯 **Focus on passive income** without IP proxy features
 
 This repository contains a collection of Home Assistant add-ons
 for running various passive income applications on a Home Assistant.
@@ -22,21 +22,20 @@ in setting up multiple passive income streams with minimal technical effort.
 
 ## 🛠 Supported Services
 
-Note! These are referral links, and by signing up through them,
+**Note:** Links marked with 🔗 are referral/affiliate links. By signing up through them,
 you directly contribute to future updates and maintenance.
 
-- [Honeygain](https://r.honeygain.me/BULINCBB47)
-- [EarnApp](https://earnapp.com/i/4LLxaYrb)
-- [Pawns.app](https://pawns.app/?r=7359984)
-- [Grass](https://app.getgrass.io/register/?referralCode=nQQpxyv6mNel0H8)
-- [Traffmonetizer](https://traffmonetizer.com/?aff=1805975)
-- [Repocket](https://link.repocket.com/TLMq)
-- [PacketStream](https://packetstream.io/?psr=6eJ7)
-- [earn.fm](https://earn.fm/ref/JEDRBQEQ)
-- [BitPing](https://bitping.com/earn)
-- [ProxyRack](https://peer.proxyrack.com/ref/7fx0rj00pt1noye23c7r2gw1sok8utlhhsjdmwys) - WIP
-- [Peer2Profit](https://t.me/peer2profit_app_bot?start=165849012262da8d0aa13c8)
-- [PacketShare](https://www.packetshare.io/?code=A260871CFD822E35)
+- [Honeygain](https://join.honeygain.com/JULIE10240) 🔗 (Affiliate Link)
+- [EarnApp](https://earnapp.com/i/Rmu95DFZ) 🔗 (Affiliate Link)
+- [Pawns.app](https://pawns.app/?r=17638352) 🔗 (Affiliate Link)
+- [Grass](https://app.getgrass.io/dashboard)
+- [Traffmonetizer](https://traffmonetizer.com/?aff=1969444) 🔗 (Affiliate Link)
+- [Repocket](https://link.repocket.com/D764) 🔗 (Affiliate Link)
+- [PacketStream](https://packetstream.io/?psr=7Ysd) 🔗 (Affiliate Link)
+- [earn.fm](https://earn.fm/ref/SAMPA299) 🔗 (Affiliate Link)
+- [BitPing](https://app.bitping.com/dashboard)
+- [Peer2Profit](https://p2p.peer2profit.com/dashboard)
+- [PacketShare](https://packetshare.io/ucenter.html)
 
 ## ⚙️ Installation Guide
 
