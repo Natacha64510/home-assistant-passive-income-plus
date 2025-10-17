@@ -6,9 +6,8 @@
 
 ### 🚀 Improvements Made:
 - ➕ **2 new applications added**: Peer2Profit and PacketShare
-- 📈 **Total: 12 applications** (instead of 10)
+- 📈 **Total: 11 applications** (instead of 9)
 - 🔒 **Independent version**: developed and maintained separately
-- 🎯 **Focus on passive income** without IP proxy features
 
 This repository contains a collection of Home Assistant add-ons
 for running various passive income applications on a Home Assistant.
