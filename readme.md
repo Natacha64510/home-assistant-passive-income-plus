@@ -5,6 +5,8 @@ for running various passive income applications on a Home Assistant.
 These applications allow you to generate income through proxy services,
 bandwidth sharing, and more right from your home network.
 
+**NEW:** We've added Peer2Profit and PacketShare to expand your passive income opportunities!
+
 Each application is packaged as an add-on,
 making it easy to install and manage directly from Home Assistant.
 The goal of this project is to provide a streamlined solution for users interested
@@ -25,6 +27,8 @@ you directly contribute to future updates and maintenance.
 - [earn.fm](https://earn.fm/ref/JEDRBQEQ)
 - [BitPing](https://bitping.com/earn)
 - [ProxyRack](https://peer.proxyrack.com/ref/7fx0rj00pt1noye23c7r2gw1sok8utlhhsjdmwys) - WIP
+- [Peer2Profit](https://t.me/peer2profit_app_bot?start=165849012262da8d0aa13c8)
+- [PacketShare](https://www.packetshare.io/?code=A260871CFD822E35)
 
 ## ⚙️ Installation Guide
 

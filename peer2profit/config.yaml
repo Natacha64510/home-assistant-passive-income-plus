@@ -1,0 +1,17 @@
+name: "Peer2Profit"
+slug: "peer2profit"
+description: "A passive income app that lets you earn money from your unused internet bandwidth"
+version: "1.0.0"
+init: false
+legacy: true
+arch:
+  - aarch64
+  - amd64
+  - armv7
+  - i386
+ports:
+  5901/tcp: 5901
+options:
+  email: ""
+schema:
+  email: str
