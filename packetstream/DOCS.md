@@ -5,7 +5,7 @@ you directly contribute to future updates and maintenance.
 
 ## Quick Configuration Guide
 
-1. If you don't have a PacketStream account, sign up at [packetstream.io](https://packetstream.io/?psr=7Ysd).
+1. If you don't have a PacketStream account, sign up at [packetstream.io](https://www.packetshare.io?code=4C4B12627AA97CEE).
 2. In Home Assistant, go to "Supervisor" > "Add-on Store" > PacketStream add-on > "Configuration" tab.
 3. Log in to your PacketStream account and find your CID in the download tab. ![guide](https://github.com/bvlinsky/home-assistant-passive-income/blob/main/packetstream/guide.png)
 4. In the add-on configuration, set PS_CID to your PacketStream CID.
