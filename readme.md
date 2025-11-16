@@ -40,7 +40,7 @@ you directly contribute to future updates and maintenance.
 - [earn.fm](https://earn.fm/ref/SAMPA299) 🔗 (Affiliate Link)
 - [BitPing](https://app.bitping.com/dashboard)
 - [Peer2Profit](https://p2p.peer2profit.com/dashboard)
-- [PacketShare](https://packetshare.io/ucenter.html)
+- [PacketShare](https://www.packetshare.io?code=4C4B12627AA97CEE) 🔗 (Affiliate Link)
 
 ## ⚙️ Installation Guide
 
@@ -96,7 +96,7 @@ vous contribuez directement aux futures mises à jour et à la maintenance.
 - [earn.fm](https://earn.fm/ref/SAMPA299) 🔗 (Lien d'Affiliation)
 - [BitPing](https://app.bitping.com/dashboard)
 - [Peer2Profit](https://p2p.peer2profit.com/dashboard)
-- [PacketShare](https://packetshare.io/ucenter.html)
+- [PacketShare](https://www.packetshare.io?code=4C4B12627AA97CEE) 🔗 (Lien d'Affiliation)
 
 ## ⚙️ Guide d'Installation
 
